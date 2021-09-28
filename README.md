@@ -1,7 +1,7 @@
 # MusicMates_
 A React Native application that matches users with similar music tastes.
 
-## Implemented features/functionalities
+## Implemented Features/Functionalities
 ### Welcome Screen
 ### Login Screen
 ### Register Screen
@@ -16,6 +16,7 @@ A React Native application that matches users with similar music tastes.
 ### Other
 * Sign out
 * Navigation between screens
+* Chatting with matched user (only text and emojis can be sent)
 
 ## TODO
 * Login/register using Spotify
