@@ -13,7 +13,8 @@ A React Native application that matches users with similar music tastes.
 ### Home Screen
 * Displaying name and image of currently listened song
 ### Match Screen
-* Displaying name, age and profile picture of other users that are listening to the same song at the same time (your music mates)
+* Displaying name, age and profile picture of other users that are listening to the same song at the same time (your music mates) 
+* Displaying percentage of music taste similarity with matched users 
 ### Profile Screen
 * Displaying user's images, bio, age, recently listened tracks, top tracks, and top artists
 * Editing profile (adding new images, changing birth date, and bio)
